@@ -62,3 +62,33 @@ When pseudocode is converted into Python, informal human-readable instructions a
 Programming helps me: Think logically, break problmes into smaller steps and develop step by step solutions.
 
 Python helps me: Convert those logical steps into actual instructions that a computer can understand and execute.
+
+#Why Programming Languages Exist
+
+## Why Does a Computer Need Instructions?
+
+A computer needs instructions because it cannot think or make decisions on its own. It needs step-by-step commands to perform tasks.
+
+## Why Can We Not Build Applications Using Normal Human Language?
+
+Human languages can be ambiguous and confusing. Computers cannot directly understand normal human language, so we need a structured language with clear rules.
+
+## What Problem Do Programming Languages Solve?
+
+Programming languages help humans communicate instructions to computers in a structured and understandable way.
+
+## Why Is Machine Language Difficult for Humans?
+
+Machine language consists of binary digits (0s and 1s). It is difficult for humans to read, write, understand and remember.
+
+## How Does Python Help?
+
+Python provides simple, readable syntax that allows developers to write instructions easily without dealing directly with binary code.
+
+## My Final Understanding
+
+A programming language acts as a bridge between: Humans and Computers.
+
+Python allows a developer to: Write simple and readable instructions to create programs and applications.
+
+A computer follows: Clear, precise and step-by-step instructions to perform tasks.
